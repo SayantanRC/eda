@@ -43,7 +43,7 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 2. <b>Component</b> must end with <b><i>component</b></i> keyword, not with component name.
 
 3. EPWave window will ask to select signals by clicking on "Get Signals" button.
-- Click the button (top left inside EPWindow)
+- Click the "Get Signals" button (top left inside EPWindow)
 - select ".DUT" in the left pane
 - Press <b>Ctrl</b> on keyboard and click on the required signals.
 - Click "Append Selected", then click "Close"
