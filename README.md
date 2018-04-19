@@ -35,10 +35,18 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 - "Playgrounds" (top right corner) -> "Your playgrounds"  
 
 ### Changes for structural behaviour
+###### Check assignment 5 for examples
 
 1. All "port map" must have a label. Example:  
   > C1 : AND_2 port map (A, B, F) -- Here C1 is the label.
 
 2. <b>Component</b> must end with <b><i>component</b></i> keyword, not with component name.
 
-3. 
+3. EPWave window will ask to select signals by clicking on "Get Signals" button.
+- Click the button (top left inside EPWindow)
+- select ".DUT" in the left pane
+- Press <b>Ctrl<b> on keyboard and click on the required signals.
+- Click "Append Selected", then click "Close"
+- Select "Append All" to see all signals
+  
+4. To remove a signal from the graph, click on signal name and click the red cross in toolbar of EPWave window.
