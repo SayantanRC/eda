@@ -7,7 +7,7 @@ Please avoid using on phone.
 Click top right "Log in" option and log in wit Google/Facebook.
 
 2. In the left hand panel, expand these two options:
--- "Languages & Libraries"
+-- "Languages & Libraries"\n
 -- "Tools & Simulators"
 
 3. Select these options: (this combination works, I haven't tried out anything else)
