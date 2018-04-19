@@ -33,3 +33,9 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 
 8. Done! To create a new project, click the website logo and a new project will open. To get back to your old saved projects
 - "Playgrounds" (top right corner) -> "Your playgrounds"  
+
+### Changes for structural behaviour
+
+1. All "port map" must have a label. Example:
+> C1 : AND_2 port map (A, B, F)
+Here C1 is the label.
