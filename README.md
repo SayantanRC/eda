@@ -3,8 +3,8 @@
 A short tuto to use EDA playground (instead of PeakVHDL)
 
 1. Use any browser and open https://www.edaplayground.com (Microsoft Edge works!)
-Please avoid using on phone.
-Click top right "Log in" option and log in wit Google/Facebook.
+Please avoid using on phone.  
+Click top right "Log in" option and log in wit Google/Facebook.  
 
 2. In the left hand panel, expand these two options:
 -- "Languages & Libraries"
