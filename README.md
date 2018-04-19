@@ -32,4 +32,4 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 7. In the top left corner (beside website logo) Click "Run". Wait for it to finish as it's a bit slow. If you are using a 2G connection, please use Jio from any of your friend.  
 
 8. Done! To create a new project, click the website logo and a new project will open. To get back to your old saved projects
--- "Playgrounds" (top right corner) -> "Your playgrounds"  
+- "Playgrounds" (top right corner) -> "Your playgrounds"  
