@@ -45,7 +45,7 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 3. EPWave window will ask to select signals by clicking on "Get Signals" button.
 - Click the button (top left inside EPWindow)
 - select ".DUT" in the left pane
-- Press <b>Ctrl<b> on keyboard and click on the required signals.
+- Press <b>Ctrl</b> on keyboard and click on the required signals.
 - Click "Append Selected", then click "Close"
 - Select "Append All" to see all signals
   
