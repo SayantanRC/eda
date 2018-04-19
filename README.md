@@ -37,5 +37,6 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 ### Changes for structural behaviour
 
 1. All "port map" must have a label. Example:
-> C1 : AND_2 port map (A, B, F)  
+> C1 : AND_2 port map (A, B, F)
+
 Here C1 is the label.
