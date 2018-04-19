@@ -39,4 +39,6 @@ https://github.com/SayantanRC/eda/blob/master/testbench.vhd
 1. All "port map" must have a label. Example:  
   > C1 : AND_2 port map (A, B, F) -- Here C1 is the label.
 
-2. <b>Component</b>
+2. <b>Component</b> must end with <b><i>component</b></i> keyword, not with component name.
+
+3. 
