@@ -21,7 +21,7 @@ Click top right "Log in" option and log in wit Google/Facebook.
   -- "Run Time" -> leave as it is (default is 10 ns)  
   -- "Open EPWave after run" -> set checked (default is unchecked)  
 
-4. Code your heart out in the right "design.vhd" file. No need to rename.
+4. Code your heart out in the right panel "design.vhd" file. No need to rename.
 
 5. The "testbench.vhd" is a bit different. Here is a sample code for 2 input AND gate (assuming entity name is "and_gate"). Copy paste this code and make changes wherever necessary:  
 https://github.com/SayantanRC/eda/blob/master/testbench.vhd  
