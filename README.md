@@ -11,15 +11,15 @@ Click top right "Log in" option and log in wit Google/Facebook.
 - "Tools & Simulators"  
 
 3. Select these options: (this combination works, I haven't tried out anything else)  
--- Under "Languages & Libraries"  
-  -- "Testbench + Design" -> "VHDL" (default is Verilog)  
-  -- "Libraries" -> leave as it is (nothing by default)  
-  -- "Top entity" -> type "testbench"  
--- Under "Tools & Simulators"  
-  -- first drop-down box -> "Aldec Riviera Pro 2014.06"  
-  -- "Compile & Run Options" -> leave as it is  
-  -- "Run Time" -> leave as it is (default is 10 ns)  
-  -- "Open EPWave after run" -> set checked (default is unchecked)  
+- Under "Languages & Libraries"  
+  - "Testbench + Design" -> "VHDL" (default is Verilog)  
+  - "Libraries" -> leave as it is (nothing by default)  
+  - "Top entity" -> type "testbench"  
+- Under "Tools & Simulators"  
+  - first drop-down box -> "Aldec Riviera Pro 2014.06"  
+  - "Compile & Run Options" -> leave as it is  
+  - "Run Time" -> leave as it is (default is 10 ns)  
+  - "Open EPWave after run" -> set checked (default is unchecked)  
 
 4. Code your heart out in the right panel "design.vhd" file. No need to rename. Sample code for 2 input AND gate:
 https://github.com/SayantanRC/eda/blob/master/design.vhd
