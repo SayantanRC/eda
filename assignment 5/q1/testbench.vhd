@@ -9,7 +9,7 @@ end testbench;
 architecture tb of testbench is
 
 -- DUT component i.e. Device Under Test
-component AND_3 is
+component OR_3 is
 port(
   A: in BIT;
   B: in BIT;
@@ -23,7 +23,7 @@ signal a1, b1, c1, f1 : BIT;
 begin
 
   -- Connect DUT
-  DUT: AND_3 port map(a1, b1, c1, f1);
+  DUT: OR_3 port map(a1, b1, c1, f1);
 
   process
   begin
@@ -75,3 +75,4 @@ begin
     wait;
   end process;
 end tb;
+
